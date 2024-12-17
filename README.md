@@ -5,6 +5,6 @@ This project explores the Kuramoto-Sivashinsky equation, one of the simplest PDE
 * **writeup.pdf**: (coming soon) a writeup that explores history and properties of the KS equation.
 
 
-**Here is an animation of the Brusselator forming stripes**
+**Here is an animation of the Brusselator forming a stripe pattern.**
 
 ![til](./animation.gif)
