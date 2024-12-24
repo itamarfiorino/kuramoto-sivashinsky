@@ -3,3 +3,23 @@ This project explores the Kuramoto-Sivashinsky equation, one of the simplest PDE
 * **brusselator.ipynb**: an integrator of a 2-dimensional brusselator, a simpler example of pattern formation with nontrivial steady-state solutions.
 * **kuramoto_sivashinsky.ipynb**: an integrator for the kuramoto-sivashinsky equation, both in integral and derivative form.
 * **writeup.pdf**: (coming soon) a writeup that explores history and properties of the KS equation.
+
+
+## Results
+
+### Two-Dimensional Brusselator
+Here are plots of the brusselator forming stripes
+![til](./plots/ksanim.gif)
+
+![image](./plots/brus2d3.png)
+
+### One-Dimensional Kuramoto-Sivashinsky
+Derivative form:
+![image](./plots/ks1d1.png)
+
+Integral Form:
+![image](./plots/ks1d3.png)
+
+### Two-Dimensional Kuramoto Sivashinsky
+Band transfer for preliminary numerics of two-dimensional equation
+![image](./plots/energy_bands.png)
