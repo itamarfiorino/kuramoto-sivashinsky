@@ -22,7 +22,7 @@ Integral Form:
 
 ### Two-Dimensional Kuramoto Sivashinsky
 The mean-zero two-dimensional equation has rich behavior and has been the subject of some interesting [numerical work](https://www.researchgate.net/publication/278516973_Nonlinear_dynamics_of_surfactant-laden_multilayer_shear_flows_and_related_systems). Here is a chaotic solution, for K = 5:
-![image](./plots/chaotic_ks2d.png)
+![til](./plots/chaotic_ks2d.gif)
 
 And here is a nontrivial steady state for K = 1.5:
-![image](./plots/steady_state_ks2d.png)
+![til](./plots/steady_state_ks2d.gif)
